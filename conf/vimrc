@@ -1,0 +1,9 @@
+set mouse=
+set ttymouse=
+set relativenumber
+
+syntax on
+syntax match Comment /^#.*/
+
+highlight Comment ctermfg=green guifg=green
+set clipboard=unnamedplus
