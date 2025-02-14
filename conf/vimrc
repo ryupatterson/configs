@@ -1,5 +1,4 @@
 set mouse=
-set ttymouse=
 set relativenumber
 
 syntax on
